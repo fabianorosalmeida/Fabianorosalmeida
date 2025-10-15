@@ -47,16 +47,8 @@ Sou curioso por natureza, por isso sempre estou olhando para novas ideias, proce
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150
+      height="200
       " 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianorosalmeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fabianorosalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
 
